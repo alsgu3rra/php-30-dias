@@ -1,3 +1,4 @@
+<!-- Utilizar variaveis basicas -->
 <!DOCTYPE html>
 <html>
   <body>
